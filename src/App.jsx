@@ -1,9 +1,10 @@
 import Dashboard from "./components/Dashboard";
+import ViewPage from "./components/ViewPage";
 
 function App() {
   return(
     <>
-    <Dashboard/>
+    <ViewPage/>
     </>
   )
 }
